@@ -222,4 +222,8 @@ the meaning of a musical piece is given by the inferences that one can draw abou
 
 build a model that can identify whether or not a music-image pair contains similar informa- tion in terms of emotion
 
+## Introducing the Open Affective Standardized Image Set (OASIS)
+###dataset
+valence and arousal ratings displayed to one or more image categories
+www.benedekkurdi.com/#oasis
 

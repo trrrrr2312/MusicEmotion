@@ -198,7 +198,8 @@ Map to high level semantics
 
 
 ## Joint Image Emotion Classification and Distribution Learning via Deep Convolutional Neural Network
-
+Develop a deep multi-task framework to address the problem(difficult to learn robust emotional representations for predicting the image la- bels) 
+The softmax is employed as the classification constraints, and the Kullback-Leibler (KL) loss is added for distribution learning. 
 
 
 

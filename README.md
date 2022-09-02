@@ -5,6 +5,10 @@ The general idea of the project is to generate image from music.
 
 
 # Literature Review work trace. 
+
+## A survey of music emotion recognition
+Summarizing article: https://news.sciencenet.cn/htmlpaper/2022/6/20226231124191573739.shtm
+
 ## LyricJam: A system for generating lyrics for live instrumental music
 
 receive live audio and generate lyrics
@@ -227,4 +231,3 @@ build a model that can identify whether or not a music-image pair contains simil
 ###dataset
 valence and arousal ratings displayed to one or more image categories
 www.benedekkurdi.com/#oasis
-

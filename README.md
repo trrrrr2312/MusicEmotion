@@ -227,6 +227,13 @@ the meaning of a musical piece is given by the inferences that one can draw abou
 
 build a model that can identify whether or not a music-image pair contains similar informa- tion in terms of emotion
 
+## Multi-scale Context Based Attention for Dynamic Music Emotion Prediction
+LTSM 
+基于多尺度上下文的注意（MCA）用于动态音乐情感预测
+配价中的表现提升不如说是唤醒中的表现提升。这可能是因为以下原因：首先，配价实际上比唤醒更难预测，这可以通过所有配价结果都比唤醒结果更糟糕的事实来发现。第二，测试集的配价注释与唤醒注释之间的一致性较差，这可能会在一定程度上影响最终结果。
+与最先进的模型相比，除了基于DBLSTM的多尺度融合模型外，MCA模型的性能超过了所有单一模型，该模型利用了多个模型中包含的信息，并将它们混合以获得更好的性能 
+不同时间尺度的前期内容会对LSTM模型产生影响
+
 ## Introducing the Open Affective Standardized Image Set (OASIS)
 ###dataset
 valence and arousal ratings displayed to one or more image categories
